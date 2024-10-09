@@ -14,3 +14,6 @@ Install the python dependencies using
 #### Step 3
 Make sure to install pgai extension if not enabled in timescale db
 `CREATE EXTENSION IF NOT EXISTS ai CASCADE;`
+
+to see the list of installed extensions 
+`SELECT * FROM pg_extension;`
