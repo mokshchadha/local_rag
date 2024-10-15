@@ -1,5 +1,7 @@
 from utils import connect_db
 
+#FIXME: this script will work when the ollama and timescale db are on same machine and not in docker
+
 dummy_data = [
     {"title": "Seoul Tower", "content": "Seoul Tower is a communication and observation tower located on Namsan Mountain in central Seoul, South Korea."},
     {"title": "Gwanghwamun Gate", "content": "Gwanghwamun is the main and largest gate of Gyeongbokgung Palace, in Jongno-gu, Seoul, South Korea."},
