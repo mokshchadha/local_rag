@@ -37,7 +37,7 @@ def create_table():
             id SERIAL PRIMARY KEY,
             title TEXT,
             content TEXT,
-            embedding VECTOR(768)
+            embedding VECTOR(384)
         );
     """)
     conn.commit()
