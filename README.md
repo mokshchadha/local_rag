@@ -1,6 +1,6 @@
 # gemma_rag
 building a RAG locally using timescale db and gemma 2b <br/>
-To understand the code and theory behind <a href="https://medium.com/@chadhamoksh/build-a-fully-local-rag-app-with-postgresql-llama-3-2-and-ollama-b18cec13382d">Read my blog</a>
+To understand the code and theory behind RAG <a href="https://medium.com/@chadhamoksh/build-a-fully-local-rag-app-with-postgresql-llama-3-2-and-ollama-b18cec13382d">Read my blog</a>
 
 ### Steps to setup
 
